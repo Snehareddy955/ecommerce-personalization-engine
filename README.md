@@ -2,7 +2,7 @@
 
 ### Home Page
 
-![Home Page](home.png)
+![Home Page](home.png.jpeg)
 
 ---
 
